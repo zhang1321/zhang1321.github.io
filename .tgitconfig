@@ -1,3 +1,8 @@
-[core]
-	autocrlf = false
-	safecrlf = true
+[user]
+	name = zhang1321
+	email = 928337986@qq.com
+[http]
+	sslVerify = false
+	postBuffer = 200000000
+[credential]
+	helper = store
