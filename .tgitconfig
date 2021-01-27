@@ -1,6 +1,3 @@
-[user]
-	name = zhang1321
-	email = 928337986@qq.com
 [core]
 	autocrlf = false
 	safecrlf = true
